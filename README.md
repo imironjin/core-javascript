@@ -11,5 +11,7 @@
 [Javascript Core 브랜치](https://www.naver.com)
 
 - [x] Code Structure
-- [ ] Variables
-- [ ] Strict Mode
+- [x] Variables
+- [x] Strict Mode
+- [x] Global This
+- [ ] Data Types
