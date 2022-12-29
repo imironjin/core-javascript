@@ -16,3 +16,4 @@
 - [x] Global This
 - [x] Data Types
 - [x] Type Conversions
+- [x] Operations
