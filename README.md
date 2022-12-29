@@ -15,3 +15,4 @@
 - [x] Strict Mode
 - [x] Global This
 - [x] Data Types
+- [x] Type Conversions
