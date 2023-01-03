@@ -18,3 +18,4 @@
 - [x] Type Conversions
 - [x] Operations
 - [x] Conditions
+- [x] loop
