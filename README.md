@@ -19,3 +19,4 @@
 - [x] Operations
 - [x] Conditions
 - [x] loop
+- [x] function
