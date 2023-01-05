@@ -21,3 +21,4 @@
 - [x] loop
 - [x] function
 - [x] object
+- [x] closure
