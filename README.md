@@ -20,3 +20,4 @@
 - [x] Conditions
 - [x] loop
 - [x] function
+- [x] object
