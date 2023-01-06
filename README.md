@@ -24,3 +24,4 @@
 - [x] closure
 - [x] optinalChaining - arrayType
 - [x] arrayMethod
+- [x] tryCatch
