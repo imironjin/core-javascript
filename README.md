@@ -23,3 +23,4 @@
 - [x] object
 - [x] closure
 - [x] optinalChaining - arrayType
+- [x] arrayMethod
