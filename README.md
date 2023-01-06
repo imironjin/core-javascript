@@ -22,3 +22,4 @@
 - [x] function
 - [x] object
 - [x] closure
+- [x] optinalChaining - arrayType
